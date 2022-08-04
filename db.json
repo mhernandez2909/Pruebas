@@ -1,11 +1,16 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "SO": "Microsoft Windows 11 Pro",
+    "SOSerial": "00330-53810-22179-AAOEM",
+    "noSerie": "PF36JA04",
+    "procesador": "Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz64 bits",
+    "marca": "LENOVO",
+    "modelo": "preuba",
+    "nombreEquipo": "LAPTOP-1MFFSDN3",
+    "usuario": "LAPTOP-1MFFSDN3\\mhernandez",
+    "capacidadDD": "118.0 GB",
+    "espacioDD": "19.3 GB",
+    "mac": "|D0:3C:1F:33:9E:1F|90:2E:16:A2:6A:B6",
+    "red": "gsv.com.mx"
   }
-}
+]
